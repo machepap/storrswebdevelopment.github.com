@@ -1,0 +1,28 @@
+---
+  id: 18087882
+  name: "Storrs Web Development Meetup"
+  link: "http://www.meetup.com/Storrs-Web-Development-Meetup/"
+  urlname: "Storrs-Web-Development-Meetup"
+  description: "<p>This is a group for anyone interested in programming or designing for the web or mobile devices. I started this group to meet other professionals, hobbyists, and students in the area so we can share ideas and learn together. We can meet in small groups to discuss projects or in larger groups to share presentations. The <a href=\"http://generalbooks.bookstore.uconn.edu/\">UConn Co-op</a> in downtown Storrs will be the site for large meetings.</p>"
+  created: 1415199840000
+  city: "Storrs Mansfield"
+  country: "US"
+  state: "CT"
+  join_mode: "open"
+  visibility: "public"
+  lat: 41.790000915527344
+  lon: -72.25
+  members: 24
+  who: "Devs"
+  timezone: "US/Eastern"
+  next_event: 
+    time: 1418684400000
+    id: "217799252"
+    name: "Let's meet up and geek out about the web."
+  category: 
+    id: 34
+    name: "Tech"
+    shortname: "Tech"
+
+  exclude: ["_config.ignore.yml", "build.sh", "README.md", "LICENSE", "apikey"]
+  repo: https://github.com/StorrsWebDevelopment/storrswebdevelopment.github.com
