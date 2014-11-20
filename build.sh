@@ -5,7 +5,7 @@ port=4000
 
 if [ $#  -ne  0 ]
 then
-  curl "http://api.meetup.com/Storrs-Web-Development-Meetup?key=${key}" | json2yaml > _config.yml;
+  curl "http://api.meetup.com/Storrs-Web-Development-Meetup?key=${key}" | ./fix_time.js | json2yaml > _config.yml;
   cat _config.more.yml >> _config.yml;
 fi
 
