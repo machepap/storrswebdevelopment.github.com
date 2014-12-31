@@ -12,13 +12,13 @@
   visibility: "public"
   lat: 41.790000915527344
   lon: -72.25
-  members: 24
+  members: 43
   who: "Devs"
   timezone: "US/Eastern"
   next_event: 
-    time: "Monday, December 15, 2014 18:00:00"
-    id: "217799252"
-    name: "Let's meet up and geek out about the web."
+    id: "219516282"
+    name: "How To Git + Social"
+    time: "Monday, January 26, 2015 18:00"
   category: 
     id: 34
     name: "Tech"
